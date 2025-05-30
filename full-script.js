@@ -34,7 +34,7 @@
             console.warn("טעינת קונפיג נכשלה, משתמש בברירת מחדל", e);
             // ברירת מחדל
             config = {
-                alertTime: "12:57",
+                alertTime: "13:10",
                 alertText: "יאללה, צא לישיבה עכשיו! 😇",
                 alertTitle: "הודעה חשובה",
                 alertSubTitle: "זה הזמן לעלות לישיבה",
